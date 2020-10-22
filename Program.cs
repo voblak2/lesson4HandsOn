@@ -6,7 +6,7 @@ namespace lesson4HandsOn
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Forever and ever, we are together!");
         }
     }
 }
